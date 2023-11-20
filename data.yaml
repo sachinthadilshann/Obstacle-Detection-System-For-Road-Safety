@@ -1,0 +1,13 @@
+train: /content/Finaldata/train/images
+val: /content/Finaldata/val/images
+
+
+names:
+  0: Elephant
+  1: Cow
+  2: Dog
+  3: Person
+  4: Bufflow
+  5: Accident
+  6: Cat
+  7: Pothole
